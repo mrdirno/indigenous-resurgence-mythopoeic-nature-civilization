@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous_resurgence_mythopoeic_nature_civilization",
+  "title": "The Pact of the Whisperwood",
+  "tagline": "When the last listener hears the land speak a final warning, two civilizations must choose between a forgotten pact and a fatal future.",
+  "target_words": 70000,
+  "actual_words": 76071,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Symbiotic vs. Extractive Consciousness",
+    "The Land as Living Archive",
+    "Indigenous Resurgence as Technological Necessity",
+    "The Violence of Forgetting"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The First Stitch",
+      "words": 3200
+    },
+    {
+      "ch": 2,
+      "title": "Council of the Whale",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "Citadel Frequency",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "The Ghost's Map",
+      "words": 3300
+    },
+    {
+      "ch": 5,
+      "title": "Root Language",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "Hearthenge",
+      "words": 3500
+    },
+    {
+      "ch": 7,
+      "title": "The Thirsty Stones",
+      "words": 3200
+    },
+    {
+      "ch": 8,
+      "title": "Aron's Calculus",
+      "words": 3000
+    },
+    {
+      "ch": 9,
+      "title": "Drone and Dreamer",
+      "words": 3400
+    },
+    {
+      "ch": 10,
+      "title": "The Bear Elder's Warning",
+      "words": 3600
+    },
+    {
+      "ch": 11,
+      "title": "Pact-Breaker's Mark",
+      "words": 3100
+    },
+    {
+      "ch": 12,
+      "title": "Silent Delegation",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "The River's Memory of Ice",
+      "words": 3300
+    },
+    {
+      "ch": 14,
+      "title": "Finn's Fragments",
+      "words": 2800
+    },
+    {
+      "ch": 15,
+      "title": "Symphony of Stress",
+      "words": 3500
+    },
+    {
+      "ch": 16,
+      "title": "The Offering",
+      "words": 3200
+    },
+    {
+      "ch": 17,
+      "title": "Toren's Choice",
+      "words": 3100
+    },
+    {
+      "ch": 18,
+      "title": "Convergence at the Circle",
+      "words": 3700
+    },
+    {
+      "ch": 19,
+      "title": "Not a Resource, a Relative",
+      "words": 3400
+    },
+    {
+      "ch": 20,
+      "title": "The Land Speaks Up",
+      "words": 3900
+    },
+    {
+      "ch": 21,
+      "title": "Collapse of Certainty",
+      "words": 3200
+    },
+    {
+      "ch": 22,
+      "title": "Listening as Action",
+      "words": 3100
+    },
+    {
+      "ch": 23,
+      "title": "Seeds in the Cracks",
+      "words": 2900
+    },
+    {
+      "ch": 24,
+      "title": "A New Hum",
+      "words": 3500
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character from the Citadel, a pure logic-driven technocrat, has their first undeniable, sensor-defying experience of the land's sentience.",
+      "Draft a 'lore-fragment' from Old Finn's archives: a myth about the creation of the Hearthenge, written in a blend of poetry and practical ecological instruction.",
+      "Create a confrontation between Kaelen and Head Councilman Aron, where Aron's love for his people and his engineer's mindset clash with Kaelen's ontological truths.",
+      "Imagine a chapter from the perspective of the Whisperwood itself, describing the arrival of the Citadel delegation and the settlement of Firstfall as sensations, irritations, or curiosities."
+    ],
+    "technical": [
+      "Design a 'symbiotic interface' prototype: a speculative technology that translates biological stress signals (from trees, mycelium, water) into human-interpretable data without extraction, inspired by Kaelen's listening.",
+      "Outline a 'Resurgence Database' schema for cataloging indigenous and mythopoeic knowledge in a way that protects its context and prevents commodification, a tool for lore-keepers like Finn."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Ursula K. Le Guin",
+      "Robin Wall Kimmerer",
+      "N. K. Jemisin",
+      "Stanislaw Lem"
+    ]
+  },
+  "cover_prompt": "A young Indigenous listener, her ear pressed to the bark of a colossal, bioluminescent tree, receives a final, urgent vision as circuits of organic light pulse beneath her fingertips, while in the background, the angular, invasive architecture of an extractive civilization encroaches upon the vibrant, sentient forest, [atmospheric setting with mood-appropriate details] within the ancient and whispering depths of the Whisperwood, where roots glow with stored memory and the air shimmers with latent data, a living archive resisting a geometric city of cold steel and silent screens, [in the atmospheric style of a specific artist known for similar aesthetics] in the visionary and detailed style of James Jean and the ecological mythopoeia of Rovina Cai, blending organic linework with ethereal digital painting, [book cover framing, centered composition, dramatic angle] book cover framing, a centered and intimate composition with a dramatic low-angle looking up at the listener and the towering tree, emphasizing their connection against the looming threat, [appropriate lighting style with color temperature] cinematic lighting with a dual palette: warm, bioluminescent golds and emerald greens emanating from the forest, clashing against the cold, sterile blues and grays of the distant city, [quality enforcers] masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
