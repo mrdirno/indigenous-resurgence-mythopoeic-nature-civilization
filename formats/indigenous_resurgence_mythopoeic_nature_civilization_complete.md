@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The concrete of the old highway had cracked like an eggshell, and through the fissure grew a sapling of ironwood, its roots patiently digesting the rebar. Kaelen placed a palm against its bark, feeling the low thrum of a song that predated asphalt. The city planners called it invasive species. His grandmother’s stories called it the first stitch in a wound that was finally closing itself.
+Cedar-root fingers pried the last paving stone from the earth. Grandmother’s breath, a low hum, vibrated through the soles of my feet as the city’s grey skin peeled back to reveal the wet, dreaming soil beneath.
+
+
 
 
 He knelt on the moss-slick stone, the morning cold seeping through the knees of his worn trousers, and placed his palms flat against the water’s skin. Not on it. Against it. There was a membrane there, a living tension. Upstream, the Alderon chattered over rocks, a busy, modern gossip. Here, in the pool beneath the falls, it dropped its voice to a deep, vibrational hum. The words weren’t sounds you heard with ears. They came up through the stone, into the bones of his hands, a resonant lexicon of pressure and chill and ancient memory.
